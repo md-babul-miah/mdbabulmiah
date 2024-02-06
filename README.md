@@ -8,8 +8,6 @@
 
 - 📝 I regularly write research blog [https://mdbabulmiah.wixsite.com/info/research-blog](https://mdbabulmiah.wixsite.com/info/research-blog)
 
-- 💬 Ask me about **I am an Integrated Ph.D. Student and Graduate Research Assistant at the Department of Environment and Energy/Climate Modeling Lab at Jeonbuk National University(JBNU), South Korea. My research experience spans across climate extremes, climate variability, carbon neutrality, and downscaling using machine learning and deep learning. Therefore, i am a very young researcher, i would like to know more about the applications of remote sensing, cdo, ncl, python, and machine learning in climate extremes and carbon neutrality. Other research interests include understanding the response of ocean-atmospheric teleconnections to cyclones, drought, and climate extremes.**
-
 - 📫 Email **babul.bsmrstu16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,5 +1,3 @@
-<h3 align="center">I am an Integrated Ph.D. Student and Graduate Research Assistant at the Department of Environment and Energy/Climate Modeling Lab at Jeonbuk National University(JBNU), South Korea. My research experience spans across climate extremes, climate variability, carbon neutrality, and downscaling using machine learning and deep learning. Therefore, i am a very young researcher, i would like to know more about the applications of remote sensing, cdo, ncl, python, and machine learning in climate extremes and carbon neutrality. Other research interests include understanding the response of ocean-atmospheric teleconnections to cyclones, drought, and climate extremes.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdbabulmiah2022&label=Profile%20views&color=0e75b6&style=flat" alt="mdbabulmiah2022" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdbabulmiah2022" alt="mdbabulmiah2022" /></a> </p>
@@ -9,6 +7,8 @@
 - 👨‍💻 Read my research [https://www.researchgate.net/profile/Md-Miah-87](https://www.researchgate.net/profile/Md-Miah-87)
 
 - 📝 I regularly write research blog [https://mdbabulmiah.wixsite.com/info/research-blog](https://mdbabulmiah.wixsite.com/info/research-blog)
+
+- 💬 Ask me about **I am an Integrated Ph.D. Student and Graduate Research Assistant at the Department of Environment and Energy/Climate Modeling Lab at Jeonbuk National University(JBNU), South Korea. My research experience spans across climate extremes, climate variability, carbon neutrality, and downscaling using machine learning and deep learning. Therefore, i am a very young researcher, i would like to know more about the applications of remote sensing, cdo, ncl, python, and machine learning in climate extremes and carbon neutrality. Other research interests include understanding the response of ocean-atmospheric teleconnections to cyclones, drought, and climate extremes.**
 
 - 📫 Email **babul.bsmrstu16@gmail.com**
 
